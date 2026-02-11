@@ -1,0 +1,9 @@
+body{
+    margin: 10px;
+}
+
+a:hover{
+    color: rgb(222,82,113);
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
